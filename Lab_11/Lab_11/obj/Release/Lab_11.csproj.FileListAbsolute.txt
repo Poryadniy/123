@@ -1,0 +1,14 @@
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\bin\Release\Lab_11.exe.config
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\bin\Release\Lab_11.exe
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\bin\Release\Lab_11.pdb
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.About.resources
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.Begin.resources
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.EWork.resources
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.Form1.resources
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.Properties.Resources.resources
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.Work.resources
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.csproj.GenerateResource.cache
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.csproj.CoreCompileInputs.cache
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.exe
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.pdb
+C:\Users\CO0L.HaCkEr\source\repos\Lab_11\Lab_11\obj\Release\Lab_11.csproj.AssemblyReference.cache
